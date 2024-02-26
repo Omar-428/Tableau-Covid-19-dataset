@@ -1,11 +1,10 @@
 Tableau-Covid-19-dataset 📊🦠
 
-COVID-19 Data Analysis Project
-
 Welcome to my immersive exploration of the COVID-19 dataset! 🌍🔍 This project showcases the power of data analysis through a dynamic blend of Excel and Tableau, resulting in vibrant visualizations and valuable insights.
 
 Data Source
 The dataset for this project was obtained from Kaggle, a platform for data science and analysis. 
+
 [Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
 Tools Utilized
