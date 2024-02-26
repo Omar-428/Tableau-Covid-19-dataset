@@ -15,7 +15,7 @@ Tableau 🎨: Taking data visualization to the next level, I imported the refine
 Key Highlights
 Data Cleaning Excellence: 🧹 Leveraged Excel's powerful features to clean and preprocess the COVID-19 dataset, ensuring reliability and consistency in the analysis.
 
-Insightful Visualizations: 📈 Created a variety of interactive visualizations in Tableau to explore various aspects of the COVID-19 pandemic, including cases, deaths, testing, vaccinations, and geographical distribution.
+Insightful Visualizations: 📈 Created a variety of interactive visualizations in Tableau to explore various aspects of the COVID-19 pandemic, including cases, deaths, recoveries, active cases, and amount of deaths per countinent.
 
 User-Friendly Design: 👀🎨 Designed the visualizations with user accessibility in mind, including color-blind friendly palettes and intuitive navigation for seamless exploration of the data.
 
